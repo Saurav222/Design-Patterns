@@ -1,4 +1,4 @@
-package com.tcs.creational;
+package com.tcs.creational.singleton;
 
 public class Government {
 	public static void main(String[] args) {
